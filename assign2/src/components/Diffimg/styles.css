@@ -1,0 +1,46 @@
+
+.Diffmsgstyles1
+{
+    height: 20px;
+    width:100%;
+    padding: 15px;
+    background-color:lightgreen;
+    color:green;
+    margin-top:20px;
+    text-align: center;
+}
+
+
+
+.Diffmsgstyles2
+{
+    height: 20px;
+    width:100%;
+    background-color:lightblue;
+    color:blue;
+    padding:15px;
+    margin-top:20px;
+    text-align:center;
+
+}
+.Diffmsgstyles3
+{
+    height: 20px;
+    width:100%;
+    background-color:lightcoral;
+    color:pink;
+    padding:15px;
+    margin-top:20px;
+    text-align:center;
+}
+.Diffmsgstyles4
+{
+    height: 20px;
+    width:100%;
+    background-color:lightgray;
+    color:gray;
+    padding:15px;
+    margin-top:20px;
+    text-align:center;
+    margin-bottom:20px;
+}

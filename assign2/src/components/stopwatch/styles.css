@@ -1,0 +1,15 @@
+
+
+.styles{
+
+ display:flex;
+ justify-content:center;
+ align-items: center;
+ 
+}
+.circlestyles
+{
+    border-radius: 250px;
+ width: 350px;
+ height: 350px;
+}
